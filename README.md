@@ -20,7 +20,7 @@ https://youtu.be/SbmfA4hKjvg
 
 If you have any questions, please do not hesitate emailing me at haase[at]informatik.uni-hamburg.de
 
-Best, Christian Haase, Lead Dev Version 2
+Best, Arunima Sharma, Lead Dev Version 3
 
 
 
