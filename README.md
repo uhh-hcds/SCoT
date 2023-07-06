@@ -1,4 +1,11 @@
 # SCoT
+
+# Introduction
+
+## DT computation
+
+## DT to SCot conversion
+
 SCoT (Sense Clustering over Time) is a web application to view the senses of a word and their evolvement over time. 
 
 You will find a detailed explanation of the theoretical background, the architecture and usage examples in the following paper
